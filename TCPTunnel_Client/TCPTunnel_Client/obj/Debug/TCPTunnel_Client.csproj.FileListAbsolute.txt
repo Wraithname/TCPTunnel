@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.Settings.resources
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.TCP_Tunnel.resources
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.Properties.Resources.resources
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.csproj.GenerateResource.cache
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\bin\Debug\TCPTunnel_Client.exe.config
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\bin\Debug\TCPTunnel_Client.exe
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\bin\Debug\TCPTunnel_Client.pdb
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.exe
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\TCPTunnel_Client\obj\Debug\TCPTunnel_Client.pdb

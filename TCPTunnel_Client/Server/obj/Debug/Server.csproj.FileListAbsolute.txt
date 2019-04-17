@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\Server\bin\Debug\Server.exe.config
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\Server\bin\Debug\Server.exe
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\Server\bin\Debug\Server.pdb
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\Server\obj\Debug\Server.exe
+C:\Users\user\Downloads\TCPTunnel_Client\TCPTunnel_Client\Server\obj\Debug\Server.pdb
