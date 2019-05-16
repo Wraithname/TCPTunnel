@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\bin\Debug\TCP_Tunnel_v2.exe.config
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\bin\Debug\TCP_Tunnel_v2.exe
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\bin\Debug\TCP_Tunnel_v2.pdb
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.Tunnel.resources
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.Properties.Resources.resources
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.exe
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.pdb
+C:\Users\user\source\repos\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\bin\Debug\TCP_Tunnel_v2.exe.config
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\bin\Debug\TCP_Tunnel_v2.exe
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\bin\Debug\TCP_Tunnel_v2.pdb
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.Tunnel.resources
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.Properties.Resources.resources
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.exe
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.pdb
+C:\Users\user\Desktop\курсовой Сети\TCP_Tunnel_v2\TCP_Tunnel_v2\obj\Debug\TCP_Tunnel_v2.csprojAssemblyReference.cache
