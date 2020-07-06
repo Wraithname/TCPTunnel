@@ -1,3 +1,3 @@
 # TCPTunnel
-Скачивать проект TCP_Tunnel_v2!!!!
-Подробная информация об этапах разработки содержится во вкладке Projects/Курсовая
+Download the TCP_Tunnel_v2 project !!!!
+File transfer to users via TCP / IP using AES and DES encryption methods.
